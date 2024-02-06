@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{360D9D24-137D-4AC0-A2AD-57BDEC197200}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Intro/Entities/Course.cs">
+    <Files>
+      <File FileName="Intro/Program.cs" Line="6" Column="19" />
+      <File FileName="Intro/Entities/Course.cs" Line="1" Column="1" />
+      <File FileName="Intro/Business/CourseManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Intro" expanded="True">
+            <Node name="Intro" expanded="True">
+              <Node name="Business" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="Course.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Intro PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
