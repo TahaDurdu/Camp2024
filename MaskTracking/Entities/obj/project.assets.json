@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/Intro.csproj",
-      "projectName": "Intro",
-      "projectPath": "/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/Intro.csproj",
+      "projectUniqueName": "/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Entities/Entities.csproj",
+      "projectName": "Entities",
+      "projectPath": "/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Entities/Entities.csproj",
       "packagesPath": "/Users/tahadurdu/.nuget/packages/",
-      "outputPath": "/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/",
+      "outputPath": "/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Entities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tahadurdu/.nuget/NuGet/NuGet.Config"

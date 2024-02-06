@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/tahadurdu/.nuget/packages/": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/Intro.csproj",
-      "projectName": "Intro",
-      "projectPath": "/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/Intro.csproj",
+      "projectUniqueName": "/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Business/Business.csproj",
+      "projectName": "Business",
+      "projectPath": "/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Business/Business.csproj",
       "packagesPath": "/Users/tahadurdu/.nuget/packages/",
-      "outputPath": "/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/",
+      "outputPath": "/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Business/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tahadurdu/.nuget/NuGet/NuGet.Config"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Entities/Entities.csproj": {
+              "projectPath": "/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Entities/Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

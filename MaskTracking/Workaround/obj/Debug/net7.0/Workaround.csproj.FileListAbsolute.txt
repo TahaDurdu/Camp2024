@@ -1,0 +1,15 @@
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/bin/Debug/net7.0/Workaround
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/bin/Debug/net7.0/Workaround.deps.json
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/bin/Debug/net7.0/Workaround.runtimeconfig.json
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/bin/Debug/net7.0/Workaround.dll
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/bin/Debug/net7.0/Workaround.pdb
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.csproj.AssemblyReference.cache
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.AssemblyInfoInputs.cache
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.AssemblyInfo.cs
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.csproj.CoreCompileInputs.cache
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.dll
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/refint/Workaround.dll
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.pdb
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.genruntimeconfig.cache
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/ref/Workaround.dll

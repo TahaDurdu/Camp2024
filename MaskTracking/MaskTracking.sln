@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{A9D1F1FE-BDB2-4EDA-BC98-E50F0A6FCFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{69EE0EBB-EFCB-40FC-B575-21E7CA196733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{C5B7831E-A968-4BC9-80FA-61AC0C47C786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D1F1FE-BDB2-4EDA-BC98-E50F0A6FCFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D1F1FE-BDB2-4EDA-BC98-E50F0A6FCFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D1F1FE-BDB2-4EDA-BC98-E50F0A6FCFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D1F1FE-BDB2-4EDA-BC98-E50F0A6FCFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69EE0EBB-EFCB-40FC-B575-21E7CA196733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EE0EBB-EFCB-40FC-B575-21E7CA196733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EE0EBB-EFCB-40FC-B575-21E7CA196733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EE0EBB-EFCB-40FC-B575-21E7CA196733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B7831E-A968-4BC9-80FA-61AC0C47C786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B7831E-A968-4BC9-80FA-61AC0C47C786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B7831E-A968-4BC9-80FA-61AC0C47C786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B7831E-A968-4BC9-80FA-61AC0C47C786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B210DFFC-92CA-4070-9C3C-64ECEB2EB415}
+	EndGlobalSection
+EndGlobal
