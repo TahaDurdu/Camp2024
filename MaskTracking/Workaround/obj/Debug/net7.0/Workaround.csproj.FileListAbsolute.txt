@@ -13,3 +13,8 @@
 /Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.pdb
 /Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.genruntimeconfig.cache
 /Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/ref/Workaround.dll
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/bin/Debug/net7.0/Business.dll
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/bin/Debug/net7.0/Entities.dll
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/bin/Debug/net7.0/Business.pdb
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/bin/Debug/net7.0/Entities.pdb
+/Users/tahadurdu/Documents/Kamp2024/MaskTracking/Workaround/obj/Debug/net7.0/Workaround.csproj.CopyComplete

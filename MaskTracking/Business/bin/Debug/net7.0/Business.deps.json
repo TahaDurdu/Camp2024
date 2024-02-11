@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Workaround/1.0.0": {
-        "dependencies": {
-          "Business": "1.0.0"
-        },
-        "runtime": {
-          "Workaround.dll": {}
-        }
-      },
       "Business/1.0.0": {
         "dependencies": {
           "Entities": "1.0.0"
@@ -30,11 +22,6 @@
     }
   },
   "libraries": {
-    "Workaround/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Business/1.0.0": {
       "type": "project",
       "serviceable": false,

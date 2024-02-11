@@ -4,21 +4,16 @@ using Entities.Concrete;
 
 namespace Business.Concrete
 {
-
-    
-    public class PersonManager : IApplicantService
+    public class ForeignerManager : IApplicantService
     {
-   
         public void ApplyForMask(Person person)
         {
-           
+            
         }
 
         public bool CheckPerson(Person person)
         {
-            
-             Dogrulama dogrulama = new Dogrulama(TCKimlikNo :person.TcNo, Adi:person.FirstName,Soyadi:person.LastName,DogumYili:person.DateOfBirthYear);
-             return dogrulama.KisiVarMi();  
+            return true;
         }
 
         public List<Person> GetList()
