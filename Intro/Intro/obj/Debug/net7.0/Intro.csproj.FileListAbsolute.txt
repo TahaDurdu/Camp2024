@@ -13,3 +13,18 @@
 /Users/tahadurdu/Documents/2024 C#/Intro/Intro/obj/Debug/net7.0/Intro.pdb
 /Users/tahadurdu/Documents/2024 C#/Intro/Intro/obj/Debug/net7.0/Intro.genruntimeconfig.cache
 /Users/tahadurdu/Documents/2024 C#/Intro/Intro/obj/Debug/net7.0/ref/Intro.dll
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/bin/Debug/net7.0/Intro
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/bin/Debug/net7.0/Intro.deps.json
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/bin/Debug/net7.0/Intro.runtimeconfig.json
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/bin/Debug/net7.0/Intro.dll
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/bin/Debug/net7.0/Intro.pdb
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/Debug/net7.0/Intro.csproj.AssemblyReference.cache
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/Debug/net7.0/Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/Debug/net7.0/Intro.AssemblyInfoInputs.cache
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/Debug/net7.0/Intro.AssemblyInfo.cs
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/Debug/net7.0/Intro.csproj.CoreCompileInputs.cache
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/Debug/net7.0/Intro.dll
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/Debug/net7.0/refint/Intro.dll
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/Debug/net7.0/Intro.pdb
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/Debug/net7.0/Intro.genruntimeconfig.cache
+/Users/tahadurdu/Documents/Kamp2024/Intro/Intro/obj/Debug/net7.0/ref/Intro.dll
